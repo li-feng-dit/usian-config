@@ -10,7 +10,7 @@ spring:
       simple:
         acknowledge-mode: manual
   application:
-    name: usian-item-service22222
+    name: usian-item-service3333
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/usian?characterEncoding=UTF-8
